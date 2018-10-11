@@ -16,7 +16,7 @@
 
 __author__ = [
     'John Orr (jorr@google.com)',
-    'Mike Gainer (mgainer@googe.com)'
+    'Mike Gainer (mgainer@google.com)'
 ]
 
 import cgi
